@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AzureVaultSampleApi
+build_property.ProjectDir = /Users/jepozdemir/Projects/web/AzureVaultSampleApi/
