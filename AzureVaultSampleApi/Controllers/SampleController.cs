@@ -15,10 +15,10 @@ namespace AzureVaultSampleApi.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetSecret()
-        {
-            var secretValue = _configuration["YourSecretName"];
-            return Ok(new { Secret = secretValue });
-        }
-    }
+        public IActionResult GetConnectionString()
+		{
+			var connectionString = _configuration["SqlConnectionString"];
+			return Ok(new { ConnectionString = connectionString });
+		}
+	}
 }
