@@ -1,7 +1,0 @@
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.csproj.AssemblyReference.cache
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.AssemblyInfoInputs.cache
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.AssemblyInfo.cs
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.csproj.CoreCompileInputs.cache
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.MvcApplicationPartsAssemblyInfo.cs
-/Users/jepozdemir/Projects/web/AzureVaultSampleApi/obj/Debug/net5.0/AzureVaultSampleApi.MvcApplicationPartsAssemblyInfo.cache
