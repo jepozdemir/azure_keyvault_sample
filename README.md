@@ -3,19 +3,24 @@
 
 ![Azure Key Vault](/cover.webp "Azure Key Vault")
 
-This repository contains code samples and configurations referenced in the Medium blog post ["Securing .NET Core Applications with Azure Key Vault"](https://medium.com/@jepozdemir/securing-net-core-applications-with-azure-key-vault-0791fbcc0c34) by Jepozdemir.
+This repository contains code samples and configurations referenced in my Medium blog post ["Securing .NET Core Applications with Azure Key Vault"](https://medium.com/@jepozdemir/securing-net-core-applications-with-azure-key-vault-0791fbcc0c34).
 
 ## Overview
 
-In this blog post, Jepozdemir discusses the importance of securing sensitive data in .NET Core applications and introduces Azure Key Vault as a solution. It covers the following topics:
+In this blog post, I discuss the importance of securing sensitive data in .NET Core applications and introduce Azure Key Vault as a solution.
+
+It covers the following topics:
 
 - **Understanding Azure Key Vault :**
+
 An introduction to Azure Key Vault and its features, including secret management, key management, and certificate management.
   
 - **Integration with .NET Core :**
+
 Step-by-step instructions on integrating Azure Key Vault with .NET Core applications. This includes setting up Azure Key Vault in the Azure portal, configuring access policies, and retrieving secrets programmatically in your .NET Core code.
 
-- **Best Practices :** 
+- **Best Practices :**
+
 Tips and best practices for managing secrets securely in Azure Key Vault, such as using Managed Identities for Azure resources, restricting access to Key Vault, and rotating secrets regularly.
 
 ## How to Use
