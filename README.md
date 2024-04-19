@@ -11,17 +11,17 @@ In this blog post, I discuss the importance of securing sensitive data in .NET C
 
 It covers the following topics:
 
-- **Understanding Azure Key Vault :**
+- **Understanding Azure Key Vault**
 
-An introduction to Azure Key Vault and its features, including secret management, key management, and certificate management.
+  An introduction to Azure Key Vault and its features, including secret management, key management, and certificate management.
   
-- **Integration with .NET Core :**
+- **Integration with .NET Core**
 
-Step-by-step instructions on integrating Azure Key Vault with .NET Core applications. This includes setting up Azure Key Vault in the Azure portal, configuring access policies, and retrieving secrets programmatically in your .NET Core code.
+  Step-by-step instructions on integrating Azure Key Vault with .NET Core applications. This includes setting up Azure Key Vault in the Azure portal, configuring access policies, and retrieving secrets programmatically in your .NET Core code.
 
-- **Best Practices :**
+- **Best Practices**
 
-Tips and best practices for managing secrets securely in Azure Key Vault, such as using Managed Identities for Azure resources, restricting access to Key Vault, and rotating secrets regularly.
+  Tips and best practices for managing secrets securely in Azure Key Vault, such as using Managed Identities for Azure resources, restricting access to Key Vault, and rotating secrets regularly.
 
 ## How to Use
 
